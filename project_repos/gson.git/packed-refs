@@ -1,0 +1,69 @@
+# pack-refs with: peeled fully-peeled sorted 
+6e23489ec55d2545918abc76e66b7cb177532b23 refs/heads/640
+2725be440147a71030ece93683b4424e849c59ed refs/heads/722
+129635ca91e5635f35d98c0660a4870a98968536 refs/heads/Issue-269
+3b7bc45212ffe7bb7d62ede1bbe11552c95910d6 refs/heads/JsonArrayImplementsList
+28bb6176ecef76b9b347763cb7ed5f7e89bcbdb2 refs/heads/date
+0b46657468afe0f089fd382293539734cc6e66a3 refs/heads/duplicate_keys_in_map
+1ca7cce74ac23c9ebf401b14af5b45fc48fcc2da refs/heads/gh-pages-old
+ea4730eb89ddc141c8ea378a43f6e9e99a3cf227 refs/heads/issues-1011
+0799842f745e9a3b3af59b827fd53fa7c23827bd refs/heads/java7-extension
+a6187cfa78b95bd22c5299eb39f0bb5140a1bbe5 refs/heads/jsonadapter_refactoring
+404979d368f832c7928f599a3f0e17ec10504558 refs/heads/jw/string-strategy
+d1770c9f77cd7761add943d81b773b2df4594f3b refs/heads/jwilson_0421_831
+4109aaa6a92f3f9725c5e2f98308816761f0123e refs/heads/master
+2f9878b544a51edd0fe1b6cbe70a63863f687066 refs/heads/revert-669-inet-address-test-failure
+59fc4f707f58e9217af155dd8bd9f75d7e907483 refs/tags/1.0
+1cf2a97feff367ec541ddae838f315755bdd2805 refs/tags/1.1
+d370fee313626b663ac080cc157277f058c962b4 refs/tags/1.1.1
+c31cabf7ad210723828dd1a2794ab5b068a84ec9 refs/tags/1.2
+69cb1388b1d02929197ebc3d97f0873004e3d8f5 refs/tags/1.2.1
+99fccfb78685f6cf0756c251d0cefb1eae50f560 refs/tags/1.2.2
+046630daf4b8d124d8529a66e72ec659ed4c9d3d refs/tags/1.2.3
+4ca0dc0998acea1480a1f7aa53e8d2794940dc88 refs/tags/1.3
+1733c60e18cb71465030c953af5cb5592a106eb1 refs/tags/1.3-beta
+8ce2da3173bd5d83c7465b14dcaa38bcf451bd78 refs/tags/1.3beta2
+1c870a71da7f8e5cb0d4cb72d46d7d04421df1d7 refs/tags/1.3beta3
+15ae13311ed17df65cfe2ac359ddb248c3eb2cc7 refs/tags/1.4-beta
+aa403bd2d37de046003c977901b7a0de5c7e19f2 refs/tags/1.5
+a33f40b99b9195a31ab69426385475eb87fbfe3f refs/tags/1.6
+7bc308cb61e91443ccd875f3ade126f72ff16248 refs/tags/1.7
+01c9b2057377d2021e23f8f9b11ee0a3d56932de refs/tags/gson-1.7.1
+e8dd1bbf54d32c97698dcccb71e83ce047102d2c refs/tags/gson-1.7.2
+22ee5630f4cd6b34e4af8c6186c005df50088c76 refs/tags/gson-2.0
+30245b8cc43fbb90f64cb6b42d926ce40f22515d refs/tags/gson-2.1
+8eaf0c271e54fa93410242cd67a430e939c79bf9 refs/tags/gson-2.2
+08bbb9c30bead60820e24eb5a69d814ee217380e refs/tags/gson-2.2.1
+c506fa79aab2b0710558c481e5af0e2c0ab0f09b refs/tags/gson-2.2.2
+d260faffee51cb3b5d04a2a6fc09f079e2ae990f refs/tags/gson-2.2.3
+ca40a338de56871027f6c31b62f47f810f092bef refs/tags/gson-2.2.4
+0eaa8d198cb756bce72cb9f15819193eea64df4a refs/tags/gson-2.3
+2b1c614e3ee2688a904337a23b893b3f48c8a082 refs/tags/gson-2.3.1
+426f4a120920e492eb1369a84c8e2c7be163f2f1 refs/tags/gson-2.4
+^5d414d68ea79cc01bdd574656099a08228b82aa2
+7ed3aaf5871275e62ac53342ff43e6d4d0297e29 refs/tags/gson-parent-2.4
+^80c13447ed09f774c879b06e40f288e881b75e4e
+05fdc15d8f241ca5dc79e759f6d4271a11be43f8 refs/tags/gson-parent-2.5
+^d7d064feb8d53b426c77035f3cb659d797402b98
+1288f31e023f818ef5ab1e1b139a76feff24c75f refs/tags/gson-parent-2.6
+^b8220eb19513fa908908b467b97ff8f823b34e1c
+696ea74b9f04db3dc0aa018f876ff09faf55ed39 refs/tags/gson-parent-2.6.1
+^3c9b9af0a1f2f5b40bec947bf216fa627697445f
+8e98c7ac4f68ce8b92920a4f2f241f02c11ed363 refs/tags/gson-parent-2.6.2
+^fe62b04148a0fe09cb38dcb667a5053b89e6c76d
+33be1a9d4ee50e640ebe3f4ef447f94c6447951e refs/tags/gson-parent-2.7
+^9722b00372672214794edea844a236d83e72b273
+c2e20b4e5f49f30e1472ec277bc8d954212c207c refs/tags/gson-parent-2.8.0
+^e9ead40302b3466f557a82f924907de59462deb9
+528ef4048f15a6885a6e2d674621a0756571adce refs/tags/gson-parent-2.8.1
+^3e74bb47d1a72f72873109e8f0407a34d25fe7e6
+f156056b1f1db72ea545c98134681b0e17aa4333 refs/tags/gson-parent-2.8.2
+^d90f63dc88ac08971cf088a3537e1b1108603574
+ab6e5cd21c1950a1dd77f84e18a6574de29638b2 refs/tags/gson-parent-2.8.3
+^4ed639e88291228b384201ea60b9a0b433e8bfa8
+b48384b49cc92be1910c3cefed679f1bff9cfc32 refs/tags/gson-parent-2.8.4
+^9fbebdf990ef40d3f59b02b5b5fccb2f447f8759
+5ecf7dcc69c6b0eb66e704bcfd1e05e0506ee584 refs/tags/gson-parent-2.8.5
+^f649e051411e092f0123878e16c5132500a2d01e
+260eb58056a7043b5594d58b47e5421a2bd9e879 refs/tags/gson-parent-2.8.6
+^29c93895bbcaed02178abc9e3d47b73878aaca73
