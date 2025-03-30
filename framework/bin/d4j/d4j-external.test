@@ -56,6 +56,8 @@ $project->{prog_root} = $WORK_DIR;
 # my $TESTDIR = $project->_determine_layout($COMMIT)->{test};
 
 # $project->compile_ext_tests(test_dir [, log_file])
-$project->compile_external_tests($TEST_DIR, $LOG_FILE);
+$project->compile_external_tests($TEST_DIR, $LOG_FILE) or die "Cannot compile external tests!";
 my $tests_result = $project->run_external_tests($TEST_DIR, $LOG_FILE, $INCLUDE, $FAILING_OUTPUT, $SINGLE_TEST_NAME);
-printf("%s\n", $tests_result) 
+printf("%s\n", $tests_result) ;
+
+1;

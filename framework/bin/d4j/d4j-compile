@@ -86,7 +86,8 @@ my $project = Project::create_project($config->{$CONFIG_PID});
 $project->{prog_root} = $WORK_DIR;
 
 if ($version) {
-    $project->compile_with_version($version);
+    $project->compile_with_version($version) or die "Cannot compile sources!";
+    $project->compile_tests_with_version($version) or die "Cannot compile tests!";
 } else {
     # Checkout and compile project version
     $project->compile() or die "Cannot compile sources!";
