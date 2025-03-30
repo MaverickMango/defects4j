@@ -1,0 +1,182 @@
+# pack-refs with: peeled fully-peeled 
+fcbfbbeeda948c7e3194863e7bf903995cf94ad2 refs/heads/1.9
+ab41111b254e1e9a66db352088dcc1ad7a130c26 refs/heads/2.0
+2576d02b14cdc092946b24d910c3601e95955413 refs/heads/2.1
+9a98ec6c0b40443461142bc2a3c0577d1e7c188e refs/heads/2.10
+906f3431404586c31d13a36072e8b2783e676504 refs/heads/2.2
+21f9ee010101c4a44b806ad9011189f268b0c583 refs/heads/2.3
+dee401d660c8cdc3b6964585f6c2c7f12260af81 refs/heads/2.4
+e44e4d37d5f31b4af2a68d157e2ed7f03869b7d2 refs/heads/2.5
+fb0f3e03dfcaf6c190e79cf1a4512a181f249ef5 refs/heads/2.6
+5d2c79b2f7d986d33d5efac48948f05cdacc97be refs/heads/2.7
+184c61953eb4635e78ced22edbdc5dd0ac731766 refs/heads/2.8
+b97ffede66f473575f1691d05b49e200622ff60f refs/heads/2.9
+d6d5b52821b51168109a638c1e9f9bef6efdb5ef refs/heads/gh-pages
+ff8ce24281b4ce1e67865d74b2b64cde9939dc9c refs/heads/master
+07a857155429600795fbe104c62529a4fac23bfa refs/heads/travis
+0e01af105dba696aa5e5130d8a355b6e4e104a38 refs/tags/jackson-dataformat-xml-2.0.0
+^054e6fbf771d925bb35d6292dc19130ce5302716
+a10192832ca7a22515d215403d40c590d6993254 refs/tags/jackson-dataformat-xml-2.0.1
+^b02373a6e252faabf9608451b70d189e94a0f495
+c581ed40cbd6efe39492152aa8b622a958be1284 refs/tags/jackson-dataformat-xml-2.0.2
+^a86574d48bc78c3af4044da92954c60e8b14506e
+c43ffc98330e87dc7f0fa0a054d93e47330703e8 refs/tags/jackson-dataformat-xml-2.0.3
+^2f1b51505b2f8aaee09d9fc3545d82b0b173a86c
+81c81a8be3f2628f377422c476e63cca863c23ce refs/tags/jackson-dataformat-xml-2.0.4
+^2a5bcce435b8a3966b313e352c931e962606da05
+ce459582cf767ee161b2c334fb611cf21668df26 refs/tags/jackson-dataformat-xml-2.0.5
+^ab80aef918199510a08d71300772bafed5710019
+73cfa7c26e3a3e76396ae77aaff5519c65e22f6d refs/tags/jackson-dataformat-xml-2.0.6
+^f11266574019a5199bc6fbaaabfcd7f19d114e44
+3a7d4bc36b2e819fd77f71d6a04600a31caf193b refs/tags/jackson-dataformat-xml-2.1.0
+^c2d27770f2be430587171958f6dd2d9cc4a780e0
+34a17de21363880d3426e543e8b62be438a47aa2 refs/tags/jackson-dataformat-xml-2.1.1
+^3d93610b77dfa9dfe20b205bfc27db94199de456
+9ace4856d722214d2b8891f306b009f5f47678a5 refs/tags/jackson-dataformat-xml-2.1.2
+^a5a3ab70f0e063e638fe00623ef5250bb7ae7585
+0e8ff588a2aa5027da3c260e6107ed1bfcfdbee6 refs/tags/jackson-dataformat-xml-2.1.3
+^08a4eb2d5d8889bd046b14c18608bff139d0d18b
+68d6ce3c8e6cc33aada6235212806dbeea535444 refs/tags/jackson-dataformat-xml-2.1.4
+^42bb6f2cbc1d8dd84b51c85b3a0623fd2f3ae505
+47eb2bbffb9b230315351f34af8035d43a8efd42 refs/tags/jackson-dataformat-xml-2.1.5
+^15af596c00269d738c9df7dfaa9c3b9219593df7
+564dac03131b1b86ee79897bf0f6254cfc76596a refs/tags/jackson-dataformat-xml-2.2.0
+^7554ce20041f4b61a8114cbb6c468b5c0596544a
+ed5c31f2c3797ca007b1fdf4ff136eb9fb1cb374 refs/tags/jackson-dataformat-xml-2.2.1
+^e88604e3d50c7b5445b46aeab11e2b374a6283e0
+fbe1e9286c1ffcccbb0647c40bcc038f51393a08 refs/tags/jackson-dataformat-xml-2.2.2
+^d3139123de37322f283932c0622ff4aa3abb655d
+c501067ea3bc5168c9bb0dc158f45ead9037220e refs/tags/jackson-dataformat-xml-2.2.3
+^333b7e6b0dad2ab1cad0fffb1232d2cb5d9c8e38
+b48affaa749a075b9f29379bc455e8a20dc69be9 refs/tags/jackson-dataformat-xml-2.2.4
+^52a18659a49d5ace1e767352a726a1fe55c985eb
+942ad181cdf258c1ec9badcfd67ad6938000ff11 refs/tags/jackson-dataformat-xml-2.3.0
+^868a424b4cc9664ffbdc1f0390874e89fc024ab4
+8c884e00d00a9abfba1d028aa58bb5f1fb4d4c23 refs/tags/jackson-dataformat-xml-2.3.1
+^ba7362cc2cf1d6457972664ccf87f57d54731a32
+1378cf80e3c19ffcbeecb752661f0c3ae2182998 refs/tags/jackson-dataformat-xml-2.3.2
+^36ba8a03111ea00cdce87cfa7da0d0d76e8cf149
+b6372649acb262b3fb9c89260b343e68a6c7a3e4 refs/tags/jackson-dataformat-xml-2.3.3
+^f4e3c6ab67af27b62b801aac775150b2315f1de2
+2ccd1a32d15058e57eb7bfe869c19ca422d1266e refs/tags/jackson-dataformat-xml-2.3.4
+^e7ef0a8909327ff119bfada4462e4e8c443ba65f
+b8034c0d84743ece4a1273172dc98f098e1a1cc6 refs/tags/jackson-dataformat-xml-2.3.5
+^56b773a74801ee6b71d83e3abeb220b26cc14b46
+84a40a0f518c09f37ee9b2b2e92cf483c20ad529 refs/tags/jackson-dataformat-xml-2.4.0
+^f68521c01731b031a182b58d0e0aef5479fb6953
+42c078aec778e9e5c4a5495d4fa1a63effacdacc refs/tags/jackson-dataformat-xml-2.4.1
+^f0abfd12d6682cb6e5533e1e846574a2c38b0a50
+cdbc02b1a06601de42a0a55fe6249e0f4fe6d586 refs/tags/jackson-dataformat-xml-2.4.2
+^48ad7af5a68b33128749705c486aac7966a2252d
+e15d19f62344d9a1b5e2a66852a4b29d6c73d25b refs/tags/jackson-dataformat-xml-2.4.3
+^7b5c095d4e36fb069f06b08805d1bf8eeb3fd016
+e0eb0568dc83c815179d151d5cfc0d56fcc20bba refs/tags/jackson-dataformat-xml-2.4.4
+^97956deec331a7c714bc2fcc744c327c98956cd9
+02cdbf2e278f8778e451b06f38fd02ed3e136de2 refs/tags/jackson-dataformat-xml-2.4.5
+^8894574acf500e9d95665de76632b664e4cd8a30
+fb3ce5afc747a1db56c1593acddefe02d94a93fc refs/tags/jackson-dataformat-xml-2.4.6
+^29c043ab388c80ea0ee0feaab8eadb6ecd7e6cca
+626f976f4e820702205eaccd81f8a6fbe52c443d refs/tags/jackson-dataformat-xml-2.5.0
+^7132a799d9fbba9d7a61f38e21a74616cc95f6b2
+0b0c5cbf982f0fc8fa4c3dc2c35fd0598e83a0c5 refs/tags/jackson-dataformat-xml-2.5.1
+^df86778b1581266e5631ac9a11da7940c4b0060d
+2780ee4735932c646480925003509c014c6dc7b9 refs/tags/jackson-dataformat-xml-2.5.2
+^14e23f20294be401af5b4c549bf73126888c944f
+2279fe77e22e84b9a0401803765522e68087c9e5 refs/tags/jackson-dataformat-xml-2.5.3
+^d73ae05fce8fc7cdd54ce1d09b7f99ed87c34bef
+4e722eb7ad9f0669ab852e789129752ae0063e8a refs/tags/jackson-dataformat-xml-2.5.4
+^5c5210228b95eb6caa9a31310782c0eb07154a5e
+70c30e1579c1ee3588a6818c2db834292149ec85 refs/tags/jackson-dataformat-xml-2.5.5
+^d16cc19ba510bcd8d70beded23b56853c64e97e3
+59b55023ff233291256cd8e9e1e9bad30350048a refs/tags/jackson-dataformat-xml-2.6.0
+^d11c564e000007b516b4a7d2e340906a1cfad8d4
+3f7ad8493745123433df7b97eb998686794b1153 refs/tags/jackson-dataformat-xml-2.6.1
+^99a34748a91fc19d5f1f24999fef93269ec525c7
+427321cdf446965e78f73969344fe7d346f371e5 refs/tags/jackson-dataformat-xml-2.6.2
+^a4917220adf823be0c18e402325f6a387e009723
+8a5ff29cdf130a8c18e96f2795b600869d87d9de refs/tags/jackson-dataformat-xml-2.6.3
+^150283a55495eb77009d59e8f5d69e0f5e1cefbc
+606dbd8a5f76649b17e7aef965f062457eeebfd4 refs/tags/jackson-dataformat-xml-2.6.4
+^d94fc1dd5e6fcba23b2279ffdbddaa2bceae63e1
+33237eeda25faaee092cb1850607e3517e78cc01 refs/tags/jackson-dataformat-xml-2.6.4-1
+^76a9637043af607643a256e8b990125cafb1c768
+1167b6fb753d095d5c2db0a674d05ea8659fdf9a refs/tags/jackson-dataformat-xml-2.6.5
+^6ddfe411388616c00b86e53d547d9c9f3d4c3479
+24ee4fcd7b126be173eedc683d7b1df857d32a43 refs/tags/jackson-dataformat-xml-2.6.6
+^dc2d6b0de06fe78d614dc151afe70272dac51c57
+79a9ada0b89c5c2492194a911104294f338ae95d refs/tags/jackson-dataformat-xml-2.6.7
+^1deae2449d368df84089977eb1ac02af9a0ee140
+b21b3a30cd674e7ad984752e5bb76cd5e44e7bd1 refs/tags/jackson-dataformat-xml-2.7.0
+^19ece314d1746ef53bbddb3e5af5a4c7790093bf
+4389bbff849e7a16d4c5989f87de0c78558e814c refs/tags/jackson-dataformat-xml-2.7.1
+^5a836f41f97ce218d594e0594edd6b980f48450a
+2dcef26b85248685e5d9bdecdb790bfb491bd638 refs/tags/jackson-dataformat-xml-2.7.2
+^28cf99992edb37767d652a1c4d6b2aa0a15a5cd0
+d2363414bd4f265ad9f31b30301530723b06a313 refs/tags/jackson-dataformat-xml-2.7.3
+^32f9b60809c457b4751dfe045cf19c8387f5a043
+559cf53bbff7414232a8fae7f6db214ee227fc4c refs/tags/jackson-dataformat-xml-2.7.4
+^c31f332e7b5de568fa69d7e3adbd1139f795400a
+49877068465da3b94938992427248c030b7a0dbf refs/tags/jackson-dataformat-xml-2.7.5
+^45c24611bbf24bf895da89d01b0115e44f7529d8
+89adeeb6657e2046b8a89d95aea1e5e466f85d11 refs/tags/jackson-dataformat-xml-2.7.6
+^10dd3f59f1bcc1a127aa59a38f8b3e47a1a49d57
+6eeabd50b92dec4c9f4635dd7fa76bbf49f4d525 refs/tags/jackson-dataformat-xml-2.7.7
+^476030bd2dbcee05d4dc7620f5aab14137f6b380
+104020a5eefa4a872226a5e71304d905d55eb62d refs/tags/jackson-dataformat-xml-2.7.8
+^f34ec6c783930397b69dbbdb48f77fd771f18ef4
+5bbf9a5f4d22bfaa5b7cd5d47ab9d028ebb9806c refs/tags/jackson-dataformat-xml-2.7.9
+^935088bab2d32954e7bc68769976d3b69531f706
+dade8a16ee2d97929abfbb194eb2cd309a26bb02 refs/tags/jackson-dataformat-xml-2.8.0
+^0f2e4b3fc24fe2f16538c15f1dbfb2858f19cb78
+33c2c41c401ec7b604bf9fc6f8735d712fcf9daf refs/tags/jackson-dataformat-xml-2.8.0.rc1
+^9382b8113f1f1d5f85309f2859ae5f0ced0ae240
+464898523c427e100337ea484e9dc273851f2dce refs/tags/jackson-dataformat-xml-2.8.0.rc2
+^6b017bf29037948e396b76284fdb9a248752a847
+3452f429d6901be643748bb091705836017a11ac refs/tags/jackson-dataformat-xml-2.8.1
+^4330471f9bd084092d1f5124839a17c74a4c14fd
+5900f9acc8290ac56a48a4c94a6601d36a2ee3f1 refs/tags/jackson-dataformat-xml-2.8.10
+^baa50ae3c86a14f7ad2be58ef7d93d0b5dcf72f3
+9e19bb1f83a014a497c307349c3fd95764eed2d6 refs/tags/jackson-dataformat-xml-2.8.11
+^1ffaeb08451fd6963e02711a395425d0fe0109ff
+06d6e0922585957651e9771811693dab86cca88a refs/tags/jackson-dataformat-xml-2.8.2
+^38394f0c65811f9edf9c0fff593f621408e3cd64
+37043167c8dce62c73b13b357297a9f1ebdf7c9d refs/tags/jackson-dataformat-xml-2.8.3
+^1cb421f9733c1afb80cd3e4653142784fccc3263
+eac7eb4614c8d29f16c85fc665b9e9ae008dda89 refs/tags/jackson-dataformat-xml-2.8.4
+^0521d21d66147a85f17682dcc1fee6a4720c8351
+96dbbbb9066edf55ad9ad9969f3ff9324651035f refs/tags/jackson-dataformat-xml-2.8.5
+^c446ed7882b3cb7a965ffafe35074fb91bbc00ee
+9abfd848a346227fb72b688edf9652b0aa8f30c0 refs/tags/jackson-dataformat-xml-2.8.6
+^9c72241342561197a0a02c3cadfe97b144b6b395
+27fef20ea923dc59f4fa7b14ae338265c8f9ee13 refs/tags/jackson-dataformat-xml-2.8.7
+^93e5e247a485bb56483647934a9bf89c11ef2c46
+2b39646daaabc7daf672c053f5db380f53f576dd refs/tags/jackson-dataformat-xml-2.8.8
+^ece5e1f7c7de6b9718fcde3d57e9091114940a2c
+8c022ae8923dd8e6398872ead5c0b39826b9c68a refs/tags/jackson-dataformat-xml-2.8.9
+^3fb6af6fcb2d4c8aad6c5c524b0f458b2f6f3c72
+20721fdf4c09a7c380545b34127bde540cfd3298 refs/tags/jackson-dataformat-xml-2.9.0
+^a096ae26a994af8d19f99a1ec0a15e2591702675
+de19c03f904bd0baeda92100dd8daf3bf2a31ddc refs/tags/jackson-dataformat-xml-2.9.0.pr1
+^9a9d8ded05eaa506f0a4a1938ab7706f9d6e773e
+4e01d27fc7edabda630b450790ab13a8f0507b1a refs/tags/jackson-dataformat-xml-2.9.0.pr2
+^711cbf7dba040a6e690eb9ef156b1dc4cce87ae8
+99718180bd33012958c34c6dedacf8ecc0bd0851 refs/tags/jackson-dataformat-xml-2.9.0.pr3
+^3056dfcf5a43f27e43271e1728973e45add6f479
+caea1a899bfc48d39f4194adc213256bafda795f refs/tags/jackson-dataformat-xml-2.9.0.pr4
+^96f60502dddaceb872f625e52d158dee422a9f0b
+7aed2fdc3a270f04ab54cd9998c089f580b8a929 refs/tags/jackson-dataformat-xml-2.9.1
+^3624896c53ff6dc656d5589806a1c6c929059144
+b88cb55d5971f60357a9b11d71f0dec679db5774 refs/tags/jackson-dataformat-xml-2.9.2
+^049392bd940018030eee6e3012c6e21b862fe7d2
+ef683a516debec65e8745c4c2943c3af857fbab2 refs/tags/jackson-dataformat-xml-2.9.3
+^ac10d47821875105b7225d726b787d69d4ae4503
+df9d026cc9e7a42ad4403ee0c22a04e42b2e9e6d refs/tags/jackson-dataformat-xml-2.9.4
+^e6f8923b2bab8962f3ec96d398f2ab7ba1f372ea
+4bbb627d713224b77c2793a4f0c6288fb8d619c2 refs/tags/jackson-dataformat-xml-2.9.5
+^a6403633eb9c013b766765f6fc135027234d6a95
+30a9d8d0233a871c223b64ede3bb3ca6922f386c refs/tags/jackson-dataformat-xml-2.9.6
+^121ba9d6d07e0d642c3101d36ec66cb63976acf0
+dbcc115619e7f78582b54958b1542ae7b9ae7d8b refs/tags/jackson-dataformat-xml-2.9.7
+^52a5231bf1201fac2f9d01730f05b5489e35b41f
+da4c01a2c573af9a06a4e4fa36908da2d571748a refs/tags/jackson-dataformat-xml-2.9.8
+^554ae553c79b439a9ebb1c5b608aa47e9faec91f
