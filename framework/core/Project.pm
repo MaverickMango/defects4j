@@ -572,6 +572,13 @@ sub compile_tests {
     return $self->_ant_call_comp("compile.tests", undef, $log_file);
 }
 
+sub compile_tests_with_version {
+    my ($self, $version, $log_file) = @_;
+    my $option_str = "-Dbuild.compiler=javac$version ";
+    my $ant_cmd = "$MAJOR_ROOT/bin/ant";
+    return $self->_ant_call("compile.tests", $option_str, $log_file, $ant_cmd);
+}
+
 =pod
 
   $project->run_tests(result_file [, single_test])
@@ -594,6 +601,21 @@ sub run_tests {
     }
 
     return $self->_ant_call_comp("run.dev.tests", "-DOUTFILE=$out_file $single_test_opt");
+}
+
+sub run_tests_with_version {
+    @_ >= 3 or die $ARG_ERROR;
+    my ($self, $version, $out_file, $single_test) = @_;
+
+    my $single_test_opt = "";
+    if (defined $single_test) {
+        $single_test =~ /([^:]+)::([^:]+)/ or die "Wrong format for single test!";
+        $single_test_opt = "-Dtest.entry.class=$1 -Dtest.entry.method=$2";
+    }
+    my $log_file;
+    my $option_str = "-DOUTFILE=$out_file $single_test_opt -Dbuild.compiler=javac$version ";
+    my $ant_cmd = "$MAJOR_ROOT/bin/ant";
+    return $self->_ant_call("run.dev.tests", $option_str, $log_file, $ant_cmd);
 }
 
 =pod
