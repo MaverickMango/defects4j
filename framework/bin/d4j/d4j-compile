@@ -78,7 +78,7 @@ unless(defined $config) {
 my $version;
 if ($config->{"compile.target"} && lc($config->{"compile.target"}) ne lc("null")) {
     $version = $config->{"compile.target"};
-} elsif ($config->{"compile.source"}) {
+} elsif ($config->{"compile.source"} && lc($config->{"compile.source"}) ne lc("null")) {
     $version = $config->{"compile.source"};
 }
 # Instantiate project and set working directory
