@@ -167,6 +167,15 @@ $cmd_descr{"write.properties"}="write properies file to work directory";
 
 =pod
 
+=item * L<B<extTestsWithCov>|d4j::d4j-extTestsWithCov/>
+
+run external tests with coverage of defects4j items.
+
+=cut
+$cmd_descr{"extTestsWithCov"}="run external tests with coverage of defects4j items";
+
+=pod
+
 =item * L<B<export>|d4j::d4j-export/>
 
 export a version-specific property.
